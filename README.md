@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammmedkhattab
-- 👀 I’m interested in in QA Automation 
-- 🌱 I’m working as a Senior QA Automation
-- 🌱 I’m currently JS , Kotlin and Swift
+- 👀 I’m interested in  QA Automation 
+- 🌱 I’m working as a Lead QA Manager
+- 🌱 I’m currently Java, JS 
 - 📫 How to reach me muhammmedkhattab@gmail.com
 
 <!---
