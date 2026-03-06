@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammmedkhattab
 - 👀 I’m interested in  QA Automation 
-- 🌱 I’m working as a Lead QA Manager
+- 🌱 I’m working as a Lead QA
 - 🌱 I’m currently Java, JS 
 - 📫 How to reach me muhammmedkhattab@gmail.com
 
