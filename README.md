@@ -1,4 +1,4 @@
-👋 Hi, I'm Muhammed Khattab
+👋 Hi, I'm Mohamed Khattab
 
 🚀 Lead QA Engineer | Test Automation Specialist
 
